@@ -1,3 +1,16 @@
 body {
-  background: #d9f0fd;
+  background: #f8a392;
+}
+
+button {
+  position: absolute;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+ul {
+  display: none;
+  list-style-type: none;
+
 }
